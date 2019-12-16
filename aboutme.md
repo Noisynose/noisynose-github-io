@@ -8,4 +8,4 @@ subtitle: A slice of my mind.
 
 **Education:** I finished my bachelor's degree in computer science in 2013.  I've then pursued some higher courses around articial intelligence and data compression.  I'm interested in discussing and learning most subjects that speak technologies to me.
 
-**Hobbies:** Video games, Animes, Powerlifting, Board games.
+**Hobbies:** Video games, Animes, Powerlifting, Board games, Talking about concepts and coding practices.

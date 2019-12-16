@@ -2,6 +2,7 @@
 layout: post
 title: 50-50 and gambling
 image: /img/ryu.png
+tags: [honesty, fifty-fifty]
 ---
 
 Recently, I've been consuming a lot of World of Warcraft Classic content from youtube.  One thing I love about this specific community is their appreciation for comedy videos.  I recommend you watch [UberDanger's AZEROTH ON FIRE](https://www.youtube.com/watch?v=jrJap2Kx-qs);  I love how the creator approaches the gambling section of his video.

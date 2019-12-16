@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Alexandre Consigny
+# title: Alexandre Consigny
 
 # Short description of your site
 description: Sup.
@@ -57,7 +57,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Alexandre Consigny
+  name: Noisy
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -78,7 +78,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "alexandreconsigny.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "noisynose.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
@@ -112,15 +112,15 @@ url-pretty: "alexandreconsigny.com"  # eg. "deanattali.com/beautiful-jekyll"
 # fb_comment_id: ""
 
 # To use Staticman comments, fill in repository, branch, and endpoint
-staticman:
-  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
-  reCaptcha:
+# staticman:
+  # repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+  # branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+  # endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
+  #reCaptcha:
     # reCaptcha for Staticman (OPTIONAL, but recommended for spam protection)
     # If you use reCaptcha, you must also set these parameters in staticman.yml
-    siteKey  : # Use your own site key, you need to apply for one on Google
-    secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
+    # siteKey  : # Use your own site key, you need to apply for one on Google
+    # secret   : # ENCRYPT your password by going to https://staticman3.herokuapp.com/v3/encrypt/<your-site-secret>
 
 # --- Misc --- #
 
